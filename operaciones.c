@@ -7,7 +7,7 @@ int sumar(const int a, const int b) {
 }
 
 /* ── restar — ya implementada ────────────────────────────────────────────── */
-
+//La función restar toma dos enteros como parametros y devuelve su resta
 int restar(const int a, const int b) {
     return a - b;
 }
